@@ -18,3 +18,20 @@ This Node.js application uses Apollo GraphQL, Express, TypeScript, and MongoDB. 
     ```bash
     npm install
 
+3. Create a .env file in the project root
+
+## Building and Running
+
+1. Build TypeScript:
+   ```bash
+   npm run build
+
+2. Production Mode
+   ```bash
+   npm start
+Visit http://localhost:3000 for the GraphQL API.
+
+3. Development Mode
+  ```bash
+  npm run dev
+   
