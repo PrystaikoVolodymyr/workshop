@@ -13,4 +13,8 @@ This Node.js application uses Apollo GraphQL, Express, TypeScript, and MongoDB. 
 
    ```bash
    git clone https://github.com/PrystaikoVolodymyr/workshop.git
-   cd workshop
+
+2. Install dependencies:
+    ```bash
+    npm install
+
