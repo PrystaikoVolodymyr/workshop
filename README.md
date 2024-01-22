@@ -32,6 +32,15 @@ This Node.js application uses Apollo GraphQL, Express, TypeScript, and MongoDB. 
 Visit http://localhost:3000 for the GraphQL API.
 
 3. Development Mode
-  ```bash
-  npm run dev
-   
+   ```bash
+   npm run dev
+Visit http://localhost:3000 for the GraphQL API.
+
+
+## .env example
+
+```
+DB_URI=mongodb://localhost:27017/
+DB_NAME=workshop
+PORT=3000
+```
